@@ -1,5 +1,11 @@
 # words_game
 
+pubspec.yaml
+
+
+
+![pubspic](https://user-images.githubusercontent.com/105967966/198821073-66d5d62e-4876-4ade-afcb-5b14c766a87d.png)
+
 
 
 ![1](https://user-images.githubusercontent.com/105967966/198820720-4c17995c-9ed7-4f7d-9eb0-8e73c1cfc8ec.png)
